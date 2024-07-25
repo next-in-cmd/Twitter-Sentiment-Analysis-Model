@@ -15,13 +15,21 @@
 
 # Steps Involved Building the Model : 
 Step1 : Uploading our Kaggle.json file
+
 Step2 : Importing twitter Sentiment dataset
+
 Step3 : Importing the Dependencies
+
 Step4 : Data Processing
+
 Step5 : Stemming
+
 Step6 : Splitting the data to training and test data
+
 Step7 : Training the Machine Learning Model
+
 Step8 : Model Evaluation
+
 Step9 :  Saving the trained model
 
 # Content :
