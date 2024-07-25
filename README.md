@@ -47,5 +47,9 @@ It contains the following 6 fields:
 
 6. text: the text of the tweet (Lyx is cool)
 
+7. Positve Tweet --> 1
+
+8. Negative Tweer --> 0
+
 # Conclusion : 
  Twitter sentiment analysis is a powerful tool with diverse applications across various domains. By analyzing the sentiments expressed in tweets—whether positive, negative, or neutral—it provides valuable insights into public opinion, customer feedback, brand perception, and emerging trends. Businesses can leverage this information for strategic decision-making, such as improving products and services, enhancing customer satisfaction, conducting market research, and managing crises effectively. Similarly, governments and organizations can use sentiment analysis to gauge public sentiment on policies, events, and social issues. Ultimately, Twitter sentiment analysis enables stakeholders to stay informed, proactive, and responsive in an increasingly connected and opinion-driven digital landscape.
